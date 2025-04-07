@@ -1,0 +1,59 @@
+{
+    "btnList": [
+        {
+            "className":"category category--selected", 
+            "category":"All", 
+            "count":"8"
+        },
+        {
+            "className":"category", 
+            "category":"Front-end", 
+            "count":"3"
+        },
+        {
+            "className":"category", 
+            "category":"Back-end", 
+            "count":"3"
+        },
+        {
+            "className":"category", 
+            "category":"Mobile", 
+            "count":"2"
+        }
+    ],
+    "projectList": [
+        { 
+            "category": "Front-end",
+            "img":"images/projects/portfolio.png", 
+            "title":"#1 Portfolio", 
+            "des":"Clone Coding with HTML, CSS, REACT",
+            "link": "https://yuna-kim98.github.io/react-sample-1/"
+        },
+        { 
+            "category": "Front-end",
+            "img":"images/projects/cgv_main.png", 
+            "title":"#2 CGV Main", 
+            "des":"Clone Coding with HTML, CSS, REACT",
+            "link": "https://yuna-kim98.github.io/react-sample-2/"
+        },
+        { 
+            "category": "Back-end",
+            "img":"images/projects/project4.webp", 
+            "title":"#3 Shoppy",
+            "des":"Clone Coding with HTML, CSS, REACT"
+        },
+        { 
+            "category": "Back-end",
+            "img":"images/projects/project4.webp", 
+            "title":"#4 Shoppy(redux)", 
+            "des":"Clone Coding with HTML, CSS, REACT-Redux",
+            "link": "http://shoppy-redux-client2.s3-website.ap-northeast-2.amazonaws.com/"
+        },
+        { 
+            "category": "Back-end",
+            "img":"images/projects/beautyofjoseon.png", 
+            "title":"#5 조선미녀", 
+            "des":"Coding with HTML, CSS, REACT"
+        }
+    ]
+}
