@@ -44,8 +44,8 @@
         },
         { 
             "category": "Back-end",
-            "img":"images/projects/project4.webp", 
-            "title":"#4 Shoppy(redux)", 
+            "img":"images/projects/shoppy-redux.png", 
+            "title":"#4 Shoppy-redux", 
             "des":"Clone Coding with HTML, CSS, REACT-Redux",
             "link": "http://shoppy-redux-client2.s3-website.ap-northeast-2.amazonaws.com/"
         },
